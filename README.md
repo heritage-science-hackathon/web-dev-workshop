@@ -3,7 +3,7 @@ In this workshop, we will go through a whistle stop tour of basic web developmen
 
 [Mozilla Thimble](https://thimble.mozilla.org/en-US/)
 
-Example One, [a simple website](https://thimbleprojects.org/rosie934/687655/)
+Example One, [First simple website](https://thimbleprojects.org/rosie934/687655/)
 
 
 Example Two, [Using more HTML elements](https://thimbleprojects.org/rosie934/687677/)
